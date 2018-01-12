@@ -1,0 +1,63 @@
+" File format: use 3 or 4 items of one type
+" then comes a "::" as separator
+" then comes a list of items that do not fit into the list
+"   NEW: we have exactly 20 items that do not fit into the list
+"   NEW: we split the items into 4 categories: a) terms that are very close misses (eg same family), b) close misses but not as close as a) (eg sample type: as Persons), 
+"        c) quite far away, but for example still named entites, d) very far, totally different word context, word category etc
+
+: family-siblings
+Jaime Tyrion Cersei :: Tywin Joffrey Tommen Myrcella Kevan Ned Oberyn Balon Ramsay Doran Harrenhal Targaryen Craster Dorne Trident raven food dragon sword sun
+Robb Bran Sansa Arya :: Catelyn Ned Robert Hodor Myrcella Kevan Oberyn Balon Ramsay Doran Harrenhal Targaryen Craster Dorne Trident raven food dragon sword sun
+Daenerys Viserys Rhaegar :: Arys Aemon Drogon Viserion Drogo Ned Oberyn Balon Ramsay Doran Harrenhal Stark Craster Winterfell Trident direwolve food lion sword sun
+Joffrey Tommen Myrcella :: Jaime Cersei Kevan Tywin Tyrion Robb Bran Sansa Ned Oberyn Harrenhal Stark Craster Winterfell Trident direwolve food dragon sword sun 
+Maron Asha Theon :: Balon Euron Damphair Robb Bran Jaime Cersei Kevan Tywin Tyrion Harrenhal Stark Craster Winterfell Trident direwolve food dragon sword sun 
+
+: names-of-houses 
+Umber Florent Mormont Greyjoy Tyrell Frey Karstark Bolton Martell Stark Lannister Greyjoy Baratheon Targaryen :: Jaime Ned Jon Tywin Arya Varys Littlefinger Mya Podrick Bronn Lys Trident Braavos Shaggydog Mander drink water sun wood raven
+
+: Lannister clan
+Joanna Tywin Kevan Tyrion Cersei Jaime Lancel :: Loras Ned Jon Arya Theon Baratheon Stark Bolton Greyjoy Targaryen Shaggydog Mander Rhaegal Harrenhal Winterfell food sword sun wood raven 
+
+: Targaryen clan 
+Aegon Rhaegar Arys Viserys Daenerys :: Loras Ned Jon Arya Theon Baratheon Stark Bolton Greyjoy Lannister Shaggydog Mander Rhaegal Harrenhal Winterfell food sword sun wood raven 
+
+: Greyjoy clan 
+Aeron Quellon Balon Euron Victarion Asha Theon :: Loras Ned Jon Arya Theon Baratheon Stark Bolton Targaryen Lannister Shaggydog Mander Rhaegal Harrenhal Winterfell food sword sun wood raven 
+
+: Stark clan
+Lyanna Ned Catelyn Robb Arya Sansa Rickon Bran :: Loras Tyrion Theon Myrcella Roose Baratheon Lannister Bolton Greyjoy Targaryen Viserion Mander Rhaegal Harrenhal Oldtown food sword sun wood raven 
+
+: direwolves
+Shaggydog Nymeria Ghost :: Arya Jon Ned Sansa Bran Viserion Rhaegal Drogon Balerion Stark Lannister Bolton Greyjoy Targaryen Harrenhal food sword sun wood read 
+
+" http://awoiaf.westeros.org/index.php/Category:Archmaesters
+: archmaesters 
+Ebrose Marwyn Walgrave :: Oldtown Samwell Sam Tarly Luwin Tywin Oberyn Margaery Balon Ramsay Craster Pyke Harrenhal Winterfell Dorne food sword sun wood fight 
+
+" http://awoiaf.westeros.org/index.php/Category:Dragons
+: dragons 
+Viserion Rhaegal Drogon Balerion :: Daenerys Viserys Arys Rhaegar Targaryen Shaggydog Nymeria Ghost Tyrion Jon Oldtown Trident Mander Bolton Greyjoy food sword sun wood fight
+
+" Nymeria is also the name of one direwolve!, also "Elia" is ambigious!
+" http://awoiaf.westeros.org/index.php/Category:Bastards
+: bastards 
+Jon Gendry Ramsay Mya :: Jaime Ned Tywin Arya Littlefinger Baratheon Lannister Bolton Greyjoy Targaryen Viserion Mander Rhaegal Harrenhal Oldtown food sword sun wood raven 
+Elia Tyene Obara :: Jaime Ned Tywin Arya Littlefinger Baratheon Lannister Bolton Greyjoy Targaryen Viserion Mander Rhaegal Harrenhal Oldtown food sword sun wood raven 
+
+" http://awoiaf.westeros.org/index.php/Category:Rivers
+: rivers 
+Mander Rhoyne Trident :: Westeros Bay Oldtown Harrenhal Gulltown Winterfell Craster Lys Myr Braavos Baratheon Lannister Bolton Greyjoy Targaryen direwolve sword fight read raven
+
+" http://awoiaf.westeros.org/index.php/Category:Free_Cities 
+: free cities 
+Braavos Lys Myr Pentos Volantis Tyros Norvos :: Bay Westeros Mander Rhoyne Oldtown Winterfell Lannisport Harrenhal Gulltown Trident Baratheon Lannister Bolton Greyjoy Targaryen direwolve sword fight read raven
+
+: Westeros cities 
+Highgarden Oldtown Lannisport Gulltown :: Braavos Lys Myr Pentos Volantis Mander Rhoyne Bay Bolton Baratheon Viserion Rhaegal Drogon Balerion Ghost direwolve sword fight read raven 
+
+
+" http://awoiaf.westeros.org/index.php/Category:Places_in_Dorne
+" : places in Dorne 
+" Sunspear Yronwood Lemonwood :: Winterfell Lannisport Oldtown Harrenhal Gulltown Lys Myr Braavos Bay Trident Baratheon Lannister Bolton Greyjoy Targaryen direwolve sword fight read raven
+
+:end

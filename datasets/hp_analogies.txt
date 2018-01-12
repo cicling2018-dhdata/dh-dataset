@@ -1,0 +1,243 @@
+: firstname-lastname
+Harry Potter
+James Potter
+Lily Potter
+Luna Lovegood
+Xenophilius Lovegood
+Arthur Weasley
+Molly Weasley
+Argus Filch
+Bill Weasley
+Ron Weasley
+Fred Weasley
+George Weasley
+Draco Malfoy
+Lucius Malfoy
+Dudley Dursley
+Vernon Dursley
+Petunia Dursley
+Bellatrix Lestrange
+Nymphadora Tonks
+Hermione Granger
+Albus Dumbledore
+Rubeus Hagrid
+Severus Snape
+Sirius Black
+Remus Lupin
+Neville Longbottom
+Ginny Weasley
+Dolores Umbridge
+Alastor Moody
+Cornelius Fudge
+Cedric Diggory
+Fleur Delacour
+Ludo Bagman
+Gregory Goyle
+"Vincent Crabbe
+Cho Chang
+Oliver Wood
+Seamus Finnigan
+Igor Karkaroff
+Parvati Patil
+Katie Bell
+Aberforth Dumbledore
+Minerva McGonagall
+"Sybill Trelawney
+"Filius Flitwick
+Hannah Abbott
+Bathilda Bagshot
+Lavender Brown
+Colin Creevey
+Barty Crouch
+Roger Davies
+Ernie Macmillan
+Peter Pettigrew
+
+: child-father
+Ariana Percival
+Aberforth Percival
+Albus Percival
+Harry James
+Ron Arthur
+Fred Arthur
+Ginny Arthur
+George Arthur
+Bill Arthur
+Charlie Arthur
+Percy Arthur
+Draco Lucius
+Dudley Vernon
+Neville Frank
+Luna Xenophilius
+Teddy Remus
+Nymphadora Ted
+
+: child-mother
+Harry Lily
+Ron Molly
+Fred Molly
+George Molly
+Percy Molly
+Ginny Molly
+Bill Molly
+Charlie Molly
+Neville Alice
+Teddy Nymphadora
+Draco Narcissa
+
+: husband-wife
+Rodolphus Bellatrix
+James Lily
+Ron Hermione
+Arthur Molly
+Bill Fleur
+Remus Nymphadora
+Harry Ginny
+Lucius Narcissa
+Frank Alice
+
+: pets-of-Hagrid
+Fang dog
+Fluffy dog
+Norbert dragon
+Aragog spider
+Buckbeak pet
+
+: wizard_animagus-animal
+Minerva cat
+Sirius dog
+Peter rat
+
+: wizard-wand_wood
+Albus elder
+Bellatrix walnut
+Ginny yew
+
+: faculty-element
+Gryffindor fire
+Ravenclaw air
+Slytherin water
+Hufflepuff earth
+
+: faculty-animal
+Gryffindor lion
+Ravenclaw eagle
+Slytherin serpent
+Hufflepuff badger
+
+: founder-faculty
+Salazar Slytherin
+Rowena Ravenclaw
+Godric Gryffindor
+
+: faculty_first_color-second_color
+scarlet gold
+green silver
+yellow black
+blue bronze
+
+: Yule_ball-gentleman-lady
+Harry Parvati
+Cedric Cho
+Ron Padma
+Hermione Viktor
+Neville Ginny
+
+: wizard-country
+Hermione England
+Fleur France
+Viktor Bulgaria
+
+: wizard-patronal_form
+Albus phoenix
+Hermione otter
+Nymphadora wolf
+Ginny horse
+
+: name-house
+Ron Gryffindor
+Luna Ravenclaw
+Neville Gryffindor
+Lily Gryffindor
+Nymphadora Hufflepuff
+Bellatrix Slytherin
+Rodolphus Slytherin
+Lucius Slytherin
+Blaise Slytherin
+Harry Gryffindor
+Hermione Gryffindor
+Ginny Gryffindor
+Hannah Hufflepuff
+Katie Gryffindor
+Susan Hufflepuff
+Terry Ravenclaw
+Lavender Gryffindor
+Millicent Slytherin
+Cho Ravenclaw
+Penelope Ravenclaw
+Michael Ravenclaw
+"Vincent Slytherin 
+Colin Gryffindor
+Dennis Gryffindor
+Roger Ravenclaw
+Cedric Hufflepuff 
+Marietta Ravenclaw
+Justin Hufflepuff 
+Seamus Gryffindor
+Marcus Slytherin
+Anthony Ravenclaw 
+Gregory Slytherin
+Angelina Gryffindor
+Lee Gryffindor
+Neville Gryffindor
+Remus Gryffindor 
+Draco Slytherin
+Ernie Hufflepuff 
+Cormac Gryffindor 
+Pansy Slytherin
+Padma Ravenclaw
+Parvati Gryffindor
+Demelza Gryffindor
+Zacharias Hufflepuff 
+Alicia Gryffindor
+
+: shortname-fullname
+Ron Ronald
+Pig Pigwidgeon
+"Barty Bartemius
+
+: name-species
+Hedwig owl
+Buckbeak hippogriff
+Pigwidgeon owl
+Norris cat
+Crookshanks cat
+Scabbers rat
+Errol owl
+Aragog spider
+Bane centaur
+Bogrod goblin 
+Dobby elf
+Fawkes phoenix
+Firenze centaur
+Fluffy dog
+Grawp giant
+Griphook goblin
+Hokey elf
+Kreacher elf
+Magorian centaur
+Nagini snake
+Norbert dragon 
+Peeves poltergeist
+Ronan centaur 
+Trevor toad
+Winky elf
+
+" uncommented this section, as frequencies too low
+" : professor-subject
+" Minerva transfiguration
+" Filius charms
+" Severus potions
+" Sybill divination
+
+:end

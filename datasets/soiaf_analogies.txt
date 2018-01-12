@@ -1,0 +1,134 @@
+: firstname-lastname
+Jaime Lannister
+Cersei Lannister
+Tyrion Lannister
+Tywin Lannister
+Kevan Lannister
+Lancel Lannister
+Robb Stark
+Ned Stark
+Catelyn Stark
+Lyanna Stark
+Arya Stark
+Sansa Stark
+Bran Stark
+Rickon Stark
+Jon Snow 
+Lysa Arryn
+Roose Bolton
+Ramsay Snow
+Samwell Tarly
+Robert Baratheon
+Joffrey Baratheon
+Tommen Baratheon
+Shireen Baratheon
+Myrcella Baratheon
+Renly Baratheon
+Stannis Baratheon
+Balon Greyjoy
+Theon Greyjoy
+Asha Greyjoy
+Euron Greyjoy
+Victarion Greyjoy
+Daenerys Targaryen
+Viserys Targaryen
+Rhaegar Targaryen
+Arys Targaryen
+Aemon Targaryen
+Loras Tyrell
+Margaery Tyrell
+Olenna Tyrell
+Barristan Selmy
+Petyr Baelish
+Edmure Tully
+Hoster Tully
+Walder Frey
+Davos Seaworth
+Sandor Clegane
+Oberyn Martell
+Tormund Giantsbane
+Jorah Mormont
+Jeor Mormont
+Doran Martell
+
+: child-father
+Robb Ned
+Arya Ned
+Rickon Ned
+Sansa Ned
+Bran Ned
+Jaime Tywin
+Tyrion Tywin
+Cersei Tywin
+Theon Balon
+Asha Balon
+Joffrey Robert
+Daenerys Aerys
+Viserys Aerys
+Shireen Stannis
+Jorah Jeor
+
+
+: bastard-child-father
+Jon Ned
+Ramsay Roose
+Gendry Robert
+
+
+: husband-wife
+Ned Catelyn
+Stannis Selyse
+Tywin Joanna
+Drogo Daenerys
+Edmure Roslin
+Joffrey Margaery
+
+" geographic name -- class 
+: geo-name-location
+Braavos city
+Lys city 
+Myr city 
+Pentos city
+Volantis city
+Tyros city 
+Norvos city
+Highgarden city 
+Oldtown city
+Lannisport city
+Gulltown city 
+Rhoyne river
+Trident river 
+Trident river
+Pyke island
+Frostfangs mountains
+Mander river
+Skagos island
+
+: houses-seats 
+Stark Winterfell
+Greyjoy Pyke
+Tully Riverrun
+Arryn Eyrie
+Tyrell Highgarden
+Martell Sunspear
+
+: name-animal-type
+Viserion dragon
+Rhaegal dragon
+Drogon dragon
+Balerion dragon
+Shaggydog direwolf
+Nymeria direwolf
+Ghost direwolf
+
+
+: Sigil_animal-house
+stag Baratheon
+rose Tyrell
+lion Lannister
+kraken Greyjoy
+direwolf Stark
+trout Tully
+dragon Targaryen
+
+:end

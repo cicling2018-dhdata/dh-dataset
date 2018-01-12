@@ -1,0 +1,25 @@
+: name-nickname
+Jaime_Lannister Kingslayer  
+Jeor_Mormont Old_Bear
+Arys Mad_King
+Tyrion Imp
+Sandor_Clegane Hound
+Robb Young_Wolf
+Jon Lord_Snow
+Theon Reek
+Petyr_Baelish Littlefinger
+Gregor_Clegane Mountain 
+Davos_Seaworth Onion_Knight
+Dany Daenerys_Stormborn
+Samwell_Tarly Sam
+Varys Spider
+
+
+: child-father
+Samwell Lord_Randyll_Tarly
+Cersei Lord_Tywin
+Jaime Lord_Tywin
+Catelyn Lord_Hoster_Tully
+
+
+:end
